@@ -10,3 +10,5 @@ To increase it's beauty there is also dark mode option which will change the col
     <dt> Tailwind CSS </dt>
     <dd> It is utility-first CSS framework that makes us easy to design our website as there is no need of writing all css codes all the css work can be done by just adding class name. </dd>
 </dl>
+<dt> REACT ROUTER DOM </dt>
+<dd> It is a useful library used to redirect pages as we do in HTML with the help of <a> tag. Since, REACT is used to develop single page applications and we need to redirect pages so react router dom is used for this purpose </dd>
